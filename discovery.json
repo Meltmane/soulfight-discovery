@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "offline",
-  "sessionId": "34a9e65dc1ea4b5fb4c2b49957dc7be7",
-  "apiBaseUrl": "https://hdtv-earlier-informed-greeting.trycloudflare.com",
+  "status": "online",
+  "sessionId": "2bec608cd1d74d658e88fa8c4a5a995d",
+  "apiBaseUrl": "https://yellow-gsm-experiment-number.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-09T22:17:46.0037646\u002B00:00",
-  "expiresAtUtc": "2026-11-09T23:17:46.0037646\u002B00:00",
-  "signature": "oxpztLZ8Q6gPz1IaxFNorHhfnCVeEBFv7eLTgUj1juPrTAkpwefWo84GrkNw63/U6eLyPgdnCdV2ncwsQNmOQfVxVBPwWeyDu3FOBB76Q28y2\u002BL3tpYa70iC0VNDmi3S9ln5ZT\u002BPRUVHBbzh6RCsux9Nw42ZSUY0yzEbQfGAA\u002BUhUK/OJCjtEHmhXj9mlVZaJNiKFFCfnDELO9KkQbpdfzwwrCBGY4FazjRoEHoRLnExEA9aG8KnEFdL6ys5KL\u002B4vAY/DaTrN3RJBweB6ImuOMMSRccQ0senLsk84Q3N1CyWV5xIZzrxTc1AuZyUfTeCgJElfDgarU8/oSDYwLKTrh5oJLPMvdoh6730\u002BHK\u002B8n2fJ\u002BRDMSVazSN5fvM/AMtx\u002BqbhrhT8ACbylUPQFzqfREcDXezPfb5JPRCBuh\u002Bgvb7oxCTsM3voQltgz\u002B41vyyM1HRkMepuhIiFMFkS5KkCMMz3xvCEseKlVG\u002B2enf230m0NpqmlC0eucVFX0AWxrj5"
+  "publishedAtUtc": "2026-11-09T22:41:46.1392152\u002B00:00",
+  "expiresAtUtc": "2026-11-09T23:41:46.1392152\u002B00:00",
+  "signature": "p6hOnoEO2aVY6Uxqlm9ajjfVQBuzlJ6s2j2RfOOrQsHFuNXr74onamiDwnmu9ZnwcsrriCeMt\u002BftPqVUxFlxVXJD2hNiJ7CyHLPbtM4ZvXVu9WEwONftgmCocb\u002BVXwghrMvPwQMD5gyBGd2uF804IBWX7s9LeCl\u002BNtInl56/6qYUix9FHzMHzEBTjsJzyNi4rBVKCd9QuYvlEF/ml4n8DeLcMMm8B\u002B5jsbIxT\u002BF8KTDlLKCtpO42PMNU\u002BsiqKv3Vzqd4I\u002BPw7YoMT\u002BRZhIQ5w9rTAQFgf1hWYHEky2VuYfhMRohTMZ06CLe4rMUPZgI4keo2O6eeN53Q8ofa4WCQaozsO0QVnGiZx/X6Am0YXkmgmoMs38QyJCsKLUJ5TqfNQmIytoAu4iCqRYLbxP1Y7zHRQUU0S6FIOz\u002Buli2Ex1OsNkvKjnJf/WveeTA4Bpfc/pf9mPt18VCZT9VFEr9rZNZde\u002BHw6OZ2sS/RdE0eU9EUJYqQpcjqcLKEF7Q\u002BlyaN"
 }
