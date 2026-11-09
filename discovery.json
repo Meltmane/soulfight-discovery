@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "5399f570284e483bb8cc4b9272990849",
   "apiBaseUrl": "https://sealed-adware-leader-debut.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-09T23:30:06.0933259\u002B00:00",
-  "expiresAtUtc": "2026-11-10T00:30:06.0933259\u002B00:00",
-  "signature": "vcMkfq7ZFnPdeJextb1UKHVEUW82Lp7vrTp8T499gK5BAeSDc2fLDmNqKzV3GG9t7OdHxOjwtZvuc24JMbK\u002B6UoUQihEHJfzKi9vEHQjX3JLwLkHgopiJfGJB2bmIo4IxVPvw3n0nxjDPEMo7KjbSOlRII5i5E1QBFlv2J2burwR\u002BFjGKwK1uL6yXzYgSCBF8fHahVj8l1yyvllsgLabmTcX2bXZinIDizU7l\u002BxU25IgKy3Gn/ZihST9qk7sa44GuzpxjSLcgnB/l\u002B6rT7CqFxgP4wsziCWq0Ln/2ZlizE/1LRYwvA2/m44e2rEAsnl47588WPTpM0dpm/JrcXzSgsyxrqZ9Nqf5/zawalN1ejR/p/bhUimfZugcNNrTL8fgj7fSe7g/moJMwx2UtkS5RnUKAG/b1xqF6tD/VbyoGd6F3n5Ik/A9Gqvna2\u002BulCYEZnnMwYULl9PuGI\u002BEtYOc6P12qdDkoLGZw44ov8HUe/4TDg/b26bMG\u002BynVFEWlyVI"
+  "publishedAtUtc": "2026-11-09T23:45:47.2485573\u002B00:00",
+  "expiresAtUtc": "2026-11-10T00:45:47.2485573\u002B00:00",
+  "signature": "TjH3X33rmsRS5AlppjlTjKPFg1STcYphD5bntgJVZvo1jEFtCm8CAY5qsyVGSKtmi7tO75DZGdM01ZO8bP\u002B95JvA5N2H46WnTzxnAiRaqwCOiEMJWK1HzVtsiIQXbLJoShc2FdXvHjnI837wtESQdNF9j7DzmMWIDd0camJfmLUi1evprmeHYk3ZVKzOVd7ZMCHNG1nXxEQmu7r\u002BYjrAKcItep\u002BvCQRqpbQ9Ho3yIfFYVptazExP83wu2z9l8UoIBjzYn1PFkWxn5hkIrj4pBVW5o8CAUBFZPDDHcZweD17NVd46kg7C\u002BkJzK40zM/B9W0BLbMNEBTttwg17KGyim737czKS\u002BUfto0xlBD3Pe1ufktBAGcyA2/9obDAT4TmI6xp5jAdfpBkeGlTblxl4Wr4VLGvJW3Gy7ckvQ01qGfQvmK47ODNqjB6oTW96f8qavskXm\u002BZMB1wq9z2d4gmu/C10Inz1FNOd3GaM40cJyiQxKaB1y1yyEbI1bPwTeTD6"
 }
