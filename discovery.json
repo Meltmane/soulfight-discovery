@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "offline",
-  "sessionId": "2bec608cd1d74d658e88fa8c4a5a995d",
-  "apiBaseUrl": "https://yellow-gsm-experiment-number.trycloudflare.com",
+  "status": "online",
+  "sessionId": "5399f570284e483bb8cc4b9272990849",
+  "apiBaseUrl": "https://sealed-adware-leader-debut.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-09T23:22:51.6281622\u002B00:00",
-  "expiresAtUtc": "2026-11-10T00:22:51.6281622\u002B00:00",
-  "signature": "cAU2aeF7uOjw89x/xU449WamVs6TNM377CK2WBj/JppvwLsUH3WLMxeZhsDWlvXvdVZ63qjaP5ZCLAD\u002BbAN3Km6c0Mp\u002BeYd8ns9O7xI6/TlsgLD\u002BR5AUFaeIn6br0sP8B\u002BiElrRmn\u002BxtPllbNfVpN98Ex2ePyaXKkyiaTY3WTnMup\u002Baovub0x69DhkVu1mVHUlb5bdXUPQ/g/BNq8\u002Bf0Fp6hrV/uKqCKYKfCSN7/0fCgrkGri6Fi2HRa6S7SwEdg33Kf3RR9/Fi7/Bb2quL2AKpW2u9P0MTyaCoJ01HaCFVhdU81CzalY/yP9IMoOFXrSO7QQuCIQLQSoY5z5N0sctfSA8lSEC\u002BBldX/GlRkU9QajAZiolI5NX7w5svyh/KVAc6KJOnEL\u002BYMn9g1zXgtScCcdnmuKiCYI272VPMQLf35FywjwZtzNb0Kg73I\u002BtgBsKkj2tq//XKe\u002BwkYT38dWUUXMRDNh0s1VUwMfC2RAOy3bgPo6sV8bJk\u002Bq1gMHBkm"
+  "publishedAtUtc": "2026-11-09T23:30:06.0933259\u002B00:00",
+  "expiresAtUtc": "2026-11-10T00:30:06.0933259\u002B00:00",
+  "signature": "vcMkfq7ZFnPdeJextb1UKHVEUW82Lp7vrTp8T499gK5BAeSDc2fLDmNqKzV3GG9t7OdHxOjwtZvuc24JMbK\u002B6UoUQihEHJfzKi9vEHQjX3JLwLkHgopiJfGJB2bmIo4IxVPvw3n0nxjDPEMo7KjbSOlRII5i5E1QBFlv2J2burwR\u002BFjGKwK1uL6yXzYgSCBF8fHahVj8l1yyvllsgLabmTcX2bXZinIDizU7l\u002BxU25IgKy3Gn/ZihST9qk7sa44GuzpxjSLcgnB/l\u002B6rT7CqFxgP4wsziCWq0Ln/2ZlizE/1LRYwvA2/m44e2rEAsnl47588WPTpM0dpm/JrcXzSgsyxrqZ9Nqf5/zawalN1ejR/p/bhUimfZugcNNrTL8fgj7fSe7g/moJMwx2UtkS5RnUKAG/b1xqF6tD/VbyoGd6F3n5Ik/A9Gqvna2\u002BulCYEZnnMwYULl9PuGI\u002BEtYOc6P12qdDkoLGZw44ov8HUe/4TDg/b26bMG\u002BynVFEWlyVI"
 }
