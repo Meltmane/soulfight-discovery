@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "offline",
-  "sessionId": "7b056ea73fa94339ae0c2133ba6d0ca7",
-  "apiBaseUrl": "https://arlington-lived-sites-teeth.trycloudflare.com",
+  "status": "online",
+  "sessionId": "d6e9f7b41c01455e96fae462c1ca9b9a",
+  "apiBaseUrl": "https://designed-mailman-plugin-enb.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-10T01:29:26.7652877\u002B00:00",
-  "expiresAtUtc": "2026-11-10T02:29:26.7652877\u002B00:00",
-  "signature": "Ak1WMg8ilgS7KlGyi8nTKFgSPo0iSJGwvbbl2XU4ddOqrCgSyj4X\u002BsFjinwlzzxneQ\u002B9EHWz6\u002BRaXVm66\u002Bvzlw0YKfOEQk9U0cAVXE6n4Kw4PA835wG3Fls7mPy4FBUw6eLTcJ5SCzEZUff6OMzmQp47awDIoIO32XdG2hbfGiFqftalqHkfvaYjJiOazNvb9iY/3m3\u002Bam3eKkF4h26bsov8YpLFgdGawNOSszBrBOS1uHb9zpDZOnFcPrHf7zD5uxX/XMSsQ5Q04XstNFpsH926VEDGVIn1gETkDqm8VJLI8d2LeCiCIFXhlx/jrY6iVYQHUyEhgUS89OYCEz\u002BKkmefLJFyVwCiEaz3GEQPABWGbuTlt77FbKHVaLvL2vxCwT9d5QFSDK/jay/6KRDzG0JmEl0N/Ayki6ddYy2IuhMNHuOGq3lKuHkw\u002B/F6ojmw\u002BSXht0zpk9vjxIyMjfJPUiimK7ApU3Pkgr2aUh6duTZjZRm47OIPKtYEd/KgDtNR"
+  "publishedAtUtc": "2026-11-10T11:26:19.4525622\u002B00:00",
+  "expiresAtUtc": "2026-11-10T12:26:19.4525622\u002B00:00",
+  "signature": "H8F/DOz09FTHA6BdrJD/uUnZVCUJHo663ii1zQ1DwsWsYerqSo\u002BeoQFoWiEBgy\u002Bwvdg/nuhIzvWAC43qwuOI1gfbIZHa17PAfKdFVxk5h/ilBAVMo0urWcJacdWBzD6IunQyZamhzgLBcZpWmQZ2MrPawQeTXoXMFGsc4TNWFhPifsfZ/4uEaIBphcfTWcTYMJy5wgTbK3RyEHAm8ld\u002BehSPNS\u002B/VaE1PRZHiv11XHMvl474RTTn3FnXQei3\u002BlCH4ny97n9jOXymP5biL3voibFUEk/PGhe/JBI/E0OJogP6xd/V6/vBVJIxTKoS6NCkcb1DCY/72n8iNx8SLbPLjVCdzfKNi4nxFMBycountGCZMOy2vDCmVUSKcB/dzXGkA5IHv8QoTsdEMh9a5HsKkPHmQNehxXvvj\u002B32IFZcFX1\u002B8g0HJJ9QrzD7XedNYjQn/QehgXohoy3rB5SJfZxb38My/rBFZEhL2OW/p5UjMi8UhMnFJrMOGCa5IEzgDfSh"
 }
