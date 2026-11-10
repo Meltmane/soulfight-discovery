@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "d6e9f7b41c01455e96fae462c1ca9b9a",
   "apiBaseUrl": "https://designed-mailman-plugin-enb.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-10T12:06:44.3472819\u002B00:00",
-  "expiresAtUtc": "2026-11-10T13:06:44.3472819\u002B00:00",
-  "signature": "cwjtAJ3SL14Vy6oNR8rbTlsd6rNqSAJA6lArZlcI/PUrPjAaeexMUbOme\u002B1jPZXz\u002BqfHwfWfnKExYHAKfk5Kspfrmzmofu9jzKVV7oIrmlU1xT/hmuQH6CPdu8eIhAy4ZTshsT1dTQ/B8xcOIBJX3OONvfh\u002BcV3nnPPPbxSWwl7q7CZiVee4oCR7w9JU6aEV2M2g\u002BNon3udOUA2bGl2637IetuMya9\u002By5ryrfShwpG5yfLe4N5MPWwMq1nnK3Gii107kNL303IgecsMz7v2wBrAAiXa\u002BGHxhQ3qMV9/BZFk5vuD71YqpubSnPUpK\u002B0h78M6fGWl779AJVo11uQrABu23gTYOy2iDnzJF6MxZVhqlyBnAL371KOdGcvId4OYrIUbNY6CgvLywxKEADzkGWC4Hcfrq/A/L9BKMntGIi2KMxLVAw7pHH6J92t3U1a/WqLG2Hg8\u002BYHtDtHBbtxxA\u002Bg/7XCyMfA3RphhaESB4YEGc58wEaD6wbOsROEBo9n5e"
+  "publishedAtUtc": "2026-11-10T12:12:21.5530251\u002B00:00",
+  "expiresAtUtc": "2026-11-10T13:12:21.5530251\u002B00:00",
+  "signature": "YNyoOVXcvJUnEpqbGeTCVbhvYDvzlGJNc7sTAdc\u002B1EOsGuoSYSYNpkVhqGS1x\u002BhSAPiclptw14JVtCpIUOfUfUs2aWQ9jdGUL4oUny6SpTt8K/pk0NgWB6b5o2dWR4IznIz/dv49lQOcwcpUc9hxrDEmByASbLm6BK2VO\u002B39QmwpZVetS0g\u002Bk33wzN086r9nxbmF\u002BhODXn6zs7mWfae\u002Bg40x3MiECJOEeBw5x1kaWI/ANLMm46qAD87yvRMUcJzxX6E4sz5lNHXExkQk8Rf0gib6WnBQcmJ0h1EV6SEt6Y0DFxajSwhy44IWjMnltoAFEzYmPi0GqTDeyO1zL75Ri7wIBJSbeZw6j07razsZ9V8BXrCwXRcszGAvIiZ2FdwcFRX06//B8zv1mmLXuc\u002B\u002BHxI9Z1WcaePRqEwDz6UFgMW\u002BIlz5ltUAlx1HjCnyprsXCjrjU5EUQr1gaejK7aEjVE55uUWd68qccHu2N33xWHLcrNljf2zFEfIB22u17vh6"
 }
