@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "7b056ea73fa94339ae0c2133ba6d0ca7",
   "apiBaseUrl": "https://arlington-lived-sites-teeth.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-10T01:17:03.7335149\u002B00:00",
-  "expiresAtUtc": "2026-11-10T02:17:03.7335149\u002B00:00",
-  "signature": "fbxuhqJG8Ye60XlpB9ZtwDj52DsTWA65vVztTpuhNITKo/FIt9lzfwtHPY8VlSrLzkJXGybbQCfhNehegdr5L37G/aVSrOkZNiICl5/zGhwH83MxtiL7npw/2LYJ3zOvXLOJZEDIBJupR/R4Ud9pOtb2p9qE0zJSN5nQQ758pkcKuycyagxk4XO9FQ7Qvlz2z8ldr1bCxfBlZ98VbTfksKSEzWOseOvMwwrrISlMKfSwpfwnfEzR42j1xD6UbJvZh02JbTAg0O/12Lc52VPpEVtE3Alo49HiRi\u002B7B7A0Owe2Qvw0FDqx2TJCy0Wui7k6qm3qkWj8\u002Bj4RjECDECu\u002Bqq5Je6kpSCyUyWwbBscNxSbYiE3OjPk531ujOFjI4sY86AJbT4LKukPmQJkD2\u002BQI/nuHABloCFWgFZOJ/\u002B45NSveHM8LMPxBknjKQ1ulRHCSf31sGL4KWIvgi0UT\u002BnnemU02xblR4bTv2AjTbg5rxQNN3M6YBlvtGdIPPw1i9TMT"
+  "publishedAtUtc": "2026-11-10T01:29:26.7652877\u002B00:00",
+  "expiresAtUtc": "2026-11-10T02:29:26.7652877\u002B00:00",
+  "signature": "Ak1WMg8ilgS7KlGyi8nTKFgSPo0iSJGwvbbl2XU4ddOqrCgSyj4X\u002BsFjinwlzzxneQ\u002B9EHWz6\u002BRaXVm66\u002Bvzlw0YKfOEQk9U0cAVXE6n4Kw4PA835wG3Fls7mPy4FBUw6eLTcJ5SCzEZUff6OMzmQp47awDIoIO32XdG2hbfGiFqftalqHkfvaYjJiOazNvb9iY/3m3\u002Bam3eKkF4h26bsov8YpLFgdGawNOSszBrBOS1uHb9zpDZOnFcPrHf7zD5uxX/XMSsQ5Q04XstNFpsH926VEDGVIn1gETkDqm8VJLI8d2LeCiCIFXhlx/jrY6iVYQHUyEhgUS89OYCEz\u002BKkmefLJFyVwCiEaz3GEQPABWGbuTlt77FbKHVaLvL2vxCwT9d5QFSDK/jay/6KRDzG0JmEl0N/Ayki6ddYy2IuhMNHuOGq3lKuHkw\u002B/F6ojmw\u002BSXht0zpk9vjxIyMjfJPUiimK7ApU3Pkgr2aUh6duTZjZRm47OIPKtYEd/KgDtNR"
 }
