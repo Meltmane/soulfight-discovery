@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "offline",
-  "sessionId": "d6e9f7b41c01455e96fae462c1ca9b9a",
-  "apiBaseUrl": "https://designed-mailman-plugin-enb.trycloudflare.com",
+  "status": "online",
+  "sessionId": "4b42cb9260fd4c119712ae900376db0f",
+  "apiBaseUrl": "https://production-existed-scuba-mat.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-10T12:12:21.5530251\u002B00:00",
-  "expiresAtUtc": "2026-11-10T13:12:21.5530251\u002B00:00",
-  "signature": "YNyoOVXcvJUnEpqbGeTCVbhvYDvzlGJNc7sTAdc\u002B1EOsGuoSYSYNpkVhqGS1x\u002BhSAPiclptw14JVtCpIUOfUfUs2aWQ9jdGUL4oUny6SpTt8K/pk0NgWB6b5o2dWR4IznIz/dv49lQOcwcpUc9hxrDEmByASbLm6BK2VO\u002B39QmwpZVetS0g\u002Bk33wzN086r9nxbmF\u002BhODXn6zs7mWfae\u002Bg40x3MiECJOEeBw5x1kaWI/ANLMm46qAD87yvRMUcJzxX6E4sz5lNHXExkQk8Rf0gib6WnBQcmJ0h1EV6SEt6Y0DFxajSwhy44IWjMnltoAFEzYmPi0GqTDeyO1zL75Ri7wIBJSbeZw6j07razsZ9V8BXrCwXRcszGAvIiZ2FdwcFRX06//B8zv1mmLXuc\u002B\u002BHxI9Z1WcaePRqEwDz6UFgMW\u002BIlz5ltUAlx1HjCnyprsXCjrjU5EUQr1gaejK7aEjVE55uUWd68qccHu2N33xWHLcrNljf2zFEfIB22u17vh6"
+  "publishedAtUtc": "2026-11-10T12:40:56.9348807\u002B00:00",
+  "expiresAtUtc": "2026-11-10T13:40:56.9348807\u002B00:00",
+  "signature": "STGXixLhVi4nSPlrJcT9W10sGBalv2f4h1FJvQNxhus\u002Bliwfs0w0VGBYjY/eGpqic49dEhAYGLhqQeJHzTOw/tl2gl1GfMKM7QTNG233YWkaEL9EqIhUS8dzPBkD3uwtMtzqYs0skuu4J3lfiN0lDrG3zAu9gLpU3LLwfIvw1z0hDbU4WcziW1B8zpOOejzP8tQqo8iAFVBz16wKZZ1dFs4JWoiwFrfsbP3K\u002B7Dz49BMvfk9/9a3WyoXiySj3EHmAee9oxEdoLFMz4SkhGwtRlWsLCooaXuKkbzNsn4\u002BhEjrxHnLJ0ez6NnzEV9grDCFHwuratFlpQpvIre7V/9cJSzCZuWtOZPg8MunUNAToHdvAm8\u002BBd4fz7I\u002B1VGBgk8QjWg4gqZSebrDYrWhc0PkXwsTNiCxel5LjaM8IasupI6EhJxi425Ysasgujcv/98ZMePTgyN65Z1ukjkEkdP2iaHJNRqdzmnsPr01B5fjnW/6OAJZd6las/GMmF\u002BozLSJ"
 }
