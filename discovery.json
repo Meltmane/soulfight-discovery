@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "624e1ceb3f1d4c8bb0f07a0b61f2a0a0",
   "apiBaseUrl": "https://col-targets-manufactured-badly.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-11T17:49:42.0720576\u002B00:00",
-  "expiresAtUtc": "2026-11-11T18:49:42.0720576\u002B00:00",
-  "signature": "tsikRmOgltu9MQ5Z1HC8Y1cctN04bnaODn3Rc34CUV8FavgT9z1Otr828B5ZGbt2VwhjlpA\u002BqOvXTrDgQHpnOaeN6oz8YHqGss4kLshQN2hFllp9uZyCe13u2AsbgHRJAmtZqy2GbYm5gtQbGt67/TmvuQjc1v7g7L3xg/YVZTd5LT5isSUcEBq7NbRiJEeHVI9EKtDlWicCto9PMjQgdy7XBZXiFyuC6x\u002B7gA5THehXIA\u002BpkrADniquJZbmue/lGQrteZVJbgMA2W1\u002Bhw4yQh74hrN8Er\u002BEfaqe/xNMBYQRMj1NZfITKMXqqNXBjKsVX4SytyoWOBMwNQi0oe9AESYOsaxLS8ZRUP4hqQML/Ufmsws8BjURShiRrK6MR/nF1lcHYyDQEt8kFpOF5hkIkc3BQc33h5MvPMmeophSvvVfn59P6xxSwqwBrGyA5Vz\u002BcBKU6Glzc0lyH1Tq1AgIHJt80dleDjs8xQjzY9F3k8XGZEXtPUhUwXIdj7CSuTWz"
+  "publishedAtUtc": "2026-11-11T18:08:50.8797615\u002B00:00",
+  "expiresAtUtc": "2026-11-11T19:08:50.8797615\u002B00:00",
+  "signature": "eY3HyalG/zJT5Y2vZG3JoJspGAk\u002BMY5rE0apkQjEpQdGpeEb9Vif8AML\u002BZtvAQ6Ctysen9HnXkRNje9p0ypXLL9pkXYjiGPSNQR662g7ZF8Z10GmSIhZgzUdtyS0FvjJOptUYbL5dMFYKMnWH4PL1s3WJObtrbhwNoJUKYRbCqOJgbeQMrPChPezv6i5v7YxAzNigYiPGAVE7ujgWQkq2Xo4OoS4L/Tu72LPNFas8RnX23Q6xvVDIviP41IAdR6\u002Bl1LSCTP07EeF31oMI4appSG9t5XpIKSD\u002BIECX/TnchSl7rIVTZoFyr7rHzBENcAx8AqOkGSsUxqF2GKIkPewgqsArFfdJunkpNPMpAGaGv92Viyzv58N\u002BLYsTm\u002B96ecZbtDq/yTchrY\u002BPprXLyBLZ\u002BnqRVQ1OuVpja4e19j4GNadXM8ix8lyVQ7AOiC69YrvcSiPRn3ZmaQIvAYp6/uWVjPfb0M6s6AQnaMYT1wX5HuIX7\u002BPnZHIoqdK7vNrGjOY"
 }
