@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "offline",
-  "sessionId": "624e1ceb3f1d4c8bb0f07a0b61f2a0a0",
-  "apiBaseUrl": "https://col-targets-manufactured-badly.trycloudflare.com",
+  "status": "online",
+  "sessionId": "4db1f1fa7a614d8e927ab6c7878c82a4",
+  "apiBaseUrl": "https://steady-adventure-slip-applications.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-11T18:08:50.8797615\u002B00:00",
-  "expiresAtUtc": "2026-11-11T19:08:50.8797615\u002B00:00",
-  "signature": "eY3HyalG/zJT5Y2vZG3JoJspGAk\u002BMY5rE0apkQjEpQdGpeEb9Vif8AML\u002BZtvAQ6Ctysen9HnXkRNje9p0ypXLL9pkXYjiGPSNQR662g7ZF8Z10GmSIhZgzUdtyS0FvjJOptUYbL5dMFYKMnWH4PL1s3WJObtrbhwNoJUKYRbCqOJgbeQMrPChPezv6i5v7YxAzNigYiPGAVE7ujgWQkq2Xo4OoS4L/Tu72LPNFas8RnX23Q6xvVDIviP41IAdR6\u002Bl1LSCTP07EeF31oMI4appSG9t5XpIKSD\u002BIECX/TnchSl7rIVTZoFyr7rHzBENcAx8AqOkGSsUxqF2GKIkPewgqsArFfdJunkpNPMpAGaGv92Viyzv58N\u002BLYsTm\u002B96ecZbtDq/yTchrY\u002BPprXLyBLZ\u002BnqRVQ1OuVpja4e19j4GNadXM8ix8lyVQ7AOiC69YrvcSiPRn3ZmaQIvAYp6/uWVjPfb0M6s6AQnaMYT1wX5HuIX7\u002BPnZHIoqdK7vNrGjOY"
+  "publishedAtUtc": "2026-11-11T18:12:07.0252762\u002B00:00",
+  "expiresAtUtc": "2026-11-11T19:12:07.0252762\u002B00:00",
+  "signature": "XtRfcKdfslJfoCA\u002BQk/O6v8g9zuaH\u002Bpmkxt5t5qdaZHVbzcq0teVISdb7owNjZ0oKqypE\u002BsHCh3N9ZgN1umdDuj9RofjUyZQ8AwGBpPM10FkxysumKsktxXZ2lYloa4bT7kkan86DlCTA8RKdXfUO9CgO44htWip2lcDN0hL\u002Bz5CSuw2YQUfHnEsbkflb3hv11C4dKhdx8HA6\u002BnEHv5UapXmdTxPqsE06WwpSAXlgphcpirQz3Jb\u002BGf/qneFf4KTJF9fT1nwaqvARzWjw9wBct9HPF72QbV9nDKmUYps9di8GrTZJ6WkV1P2VTyIChg7n38Fl0vKiCHzEehlDVPr3pJ3xTX2rrkLfbAr3\u002BnZu3inaraOuQ01yCRuUt/cW\u002BIlUP0YvPW9RBcKCcoLQ92SGFiFI\u002BptrZUg\u002BStfdnkV/sp5Ye6w79pBOkGN5GoZFlzS4vsDHAwaVwg1EFkfP0w6E9Ocz5BnL2/keHsdU4twLqoVn3PnMY4jEve0edvKNgEb"
 }
