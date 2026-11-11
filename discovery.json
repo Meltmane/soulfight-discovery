@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "6247dd73dfdd493e910bf51baba33345",
   "apiBaseUrl": "https://thread-midwest-engineering-consecutive.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-11T02:05:13.4624713\u002B00:00",
-  "expiresAtUtc": "2026-11-11T03:05:13.4624713\u002B00:00",
-  "signature": "QZ3jsUDTVXsE\u002B7UKghCZ2xK\u002Bwq4YCg83KaZz44YmPPAqH7gbWMTJttvCZ\u002BvnsVtXo5C9b2DAst6pjCFkjGldD0/SNl7b9uuKqM7B\u002B5SQvcylJkeLBrUHzftZxcEBSdf\u002B92cw9aUpBy4qs0t9vhraT4S3QYDRRMf/SE\u002B4yQxG1UjmIL7xn3DzZommLSu4Kd3IGa2S3TlcQ0BW9wulQ4dqa/aXGF9qhtKqQU//1Lhd3OaINW168zGoZiztgo1xBGqqXgdE5zY21OAmtn2UbRU2zkNUFPvC8vUsGwPaeITEqlJvFIaZ\u002B8Pw\u002BjidaW9Gei7Bzcb83xGIY8b3zsi/fgafvylkGrHEACck9OCdV2cyGmeExEW3Cj0kTRrJwhakHdHxKxauOXcumrAEfUGvinOQhpmbaCQR52PNGgYyXm\u002BqdLVAo5swu9dACKyQ055voD4UJl6\u002BwYRGrwRVnFlY\u002BQWB3jZmT\u002BUkeXp2GZiBvbiuw/vPTuG8b5DlT7XMxoAPkrLI"
+  "publishedAtUtc": "2026-11-11T02:13:18.2189895\u002B00:00",
+  "expiresAtUtc": "2026-11-11T03:13:18.2189895\u002B00:00",
+  "signature": "lVg0WqVKXj49wH7ptHvsHujr0x3vAb\u002BFLMGIZdqAhObnras40eAGqW0EQeMMMOCrJVVgOLbNVwsbZc32a\u002BP/2dABY\u002BELzrp8qSCbJpRVMKU65Pj1W3IIJhFwJpN5GRfcvpWPYb8lSWNDSX3H6l/Cc347nSP3ruce9d/BjnnbfOu6Kr9VJCkisDvw7tOdvH3wXXA9cdX2FTlHOmRRybakk8LFE3aNIiad/blolGTCQw2gDcw8tzMV0T1T9wvgXOVjtKvoU3cXVO5\u002BnMQsPLudpgcgo1gv9wRqVOZ\u002Bdx//VYju1K9gtXh\u002B1ScI21NUlb/xQ4Y9R803SCQhMjCkF37N\u002BTf7Vsd\u002BfPTq\u002B5GVxFjHrdAI\u002BOTtwTD94lFHMHwMnhAjMZP7vgXtAxeyf65XkuZOs3OMYhqiI3Igw0bcAOfVrZDMX5WG6t3YbJ\u002BCuaw5JsX9CrfSnZRE0np\u002BxOfB71drP03zdCiopeqJpeD\u002B98PVzRrm4RpBitlo3lS0YRzm6cng"
 }
