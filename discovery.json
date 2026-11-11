@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "offline",
-  "sessionId": "8ad87158b9c245e196e0fc5a7c0494bf",
-  "apiBaseUrl": "https://constraints-breach-celebrities-differently.trycloudflare.com",
+  "status": "online",
+  "sessionId": "624e1ceb3f1d4c8bb0f07a0b61f2a0a0",
+  "apiBaseUrl": "https://col-targets-manufactured-badly.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-11T13:45:26.8212465\u002B00:00",
-  "expiresAtUtc": "2026-11-11T14:45:26.8212465\u002B00:00",
-  "signature": "PP6UVVAOCkrbUjudIequCUTqvZo2e\u002Bj18uipu\u002BH7waV90YtAxi7jDNJwhMa9KkXlRp9sXfH5iVxSIOuACTHTJ7qF/x/7ras\u002B\u002BFKYkg8m4RacImwCrS4b9tgW3rTDlMPkUQYMwl5/493y0vWofcCK6iadpo6y9T2oIyvBVoU7n0CxJrPKY7b1TDg1TRSYgFptPIQlBpizGXo3FdX\u002BeEmCmqzicidB3OJD/CXprkbZBsxsFvAzUb6GLWoOLpDHo9YrFovsKNmbwBhqY6s6w0KDkvLQh7KdRDGIOAnRK\u002Br6AA\u002B1xUTLWMZgw5JzkgCvqVpQT1unpsQdYblKhPJLypeKwksZGfM4QRGaF\u002BwLAQdNOOZSt8J/tUkzPNoyQnIpK9azJj/OYCYESZF\u002BLYgAdw4avgMyY4VB7SNJhSS3O3iik7cmRBkGE0zbgUtn2v/kv8FIRoRWxemRTDSCg71GhmT9K/89\u002Bb\u002Bqyif8xEBMl44kXLp/X2RG0uvzRIOI8hyS0AwE"
+  "publishedAtUtc": "2026-11-11T13:47:54.9810434\u002B00:00",
+  "expiresAtUtc": "2026-11-11T14:47:54.9810434\u002B00:00",
+  "signature": "jziyjmA0xjrw/zlQJSZpwUnLtCh8823YY6l\u002Bl95uLMb\u002BJhUEoIjvLI2L5EUz1\u002BVIl\u002BAjKNHAkAd3L/bkrxm/1iIO8WvOyklKVyuh6qSZ6vtDnVcdG3Hh2Np1uQPECP1kGYHJ9xmFTneJBA1o5K72ufZbyxieOrUj4TUszx3CROGogUbBzIb6PzTGJCjKFabYfdJ/\u002B8H7qVH\u002BX2Ix8y8rgoHhvTToPgN3VjiQfYnV5BXkKcAKad84FcBxDghE/CNoPM4bRKu1TxmkeACyRSn/P0VegKNPTEZuTT0glwekfz75RrHgmQgddpUCcFMNQ38TGDyEgStbZeu6EsKzjFfK9RbK7pblBrQsOqGN5NLa9hUsduLmppmzjF7bhdEKNnvwXJsEVKfCdCHUNWoZB6/lwwDsg3Fyw8xRDojGUj/G6UR2Z1MUYRFlMVAOrXq9AQykKwIhjeHk\u002BLhQQsgY2sMIsEv4Uac\u002B3Iw/30JkNwBt77WXJHQHlwhSesoBZ13qLhuU"
 }
