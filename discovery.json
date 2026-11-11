@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "8ad87158b9c245e196e0fc5a7c0494bf",
   "apiBaseUrl": "https://constraints-breach-celebrities-differently.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-11T13:36:29.3803904\u002B00:00",
-  "expiresAtUtc": "2026-11-11T14:36:29.3803904\u002B00:00",
-  "signature": "sLcoTLiMnOg9i\u002BRalUSyUa5ElS2OKR7UTRkY2tU3n7z\u002B6LR996WdHwcieiN74bRmoZ9OZnGkJxu9Ve2nxmGAhDm9ILa/j\u002BwFVEhcuQA/lIs3tKjF5aNpNoQkenibdc5Ybm5O\u002B23xRUQ\u002B2m9/bsUZYbIEwQ/hXwa/bzsiaoAtpS/DQKPZf6OzXhgkJQU\u002BG3mI0XYm/6bauc1\u002BRrd9ptbxSXb9k57yscBmaGc3dINRHzvmEiautODFS7onjk8rlv7fJcVFWs9mh1B4VuqEWbAxwSCKVcEkGj1CQ6jFFs7GrZ3XvHdr2eMr77FE9cXuL/QIjHTPfy/hBAeKgtNrsBgnSv9Noxgom135k\u002BzIIPoQdaLSwnUDQMjQ1aWsVLxLnJum9E\u002B5RLUDgmzt2G4UJxLK18FnQ8773wt6zJV7bF4a5crz1OsyiF59ctQ6YOX1QahAETBdYmi4b9X\u002BzjU7bcyHz4y4i/B5UFAPhaNT6TOqMbQmQuef5GbI\u002BO8W2W2HwaMY"
+  "publishedAtUtc": "2026-11-11T13:45:26.8212465\u002B00:00",
+  "expiresAtUtc": "2026-11-11T14:45:26.8212465\u002B00:00",
+  "signature": "PP6UVVAOCkrbUjudIequCUTqvZo2e\u002Bj18uipu\u002BH7waV90YtAxi7jDNJwhMa9KkXlRp9sXfH5iVxSIOuACTHTJ7qF/x/7ras\u002B\u002BFKYkg8m4RacImwCrS4b9tgW3rTDlMPkUQYMwl5/493y0vWofcCK6iadpo6y9T2oIyvBVoU7n0CxJrPKY7b1TDg1TRSYgFptPIQlBpizGXo3FdX\u002BeEmCmqzicidB3OJD/CXprkbZBsxsFvAzUb6GLWoOLpDHo9YrFovsKNmbwBhqY6s6w0KDkvLQh7KdRDGIOAnRK\u002Br6AA\u002B1xUTLWMZgw5JzkgCvqVpQT1unpsQdYblKhPJLypeKwksZGfM4QRGaF\u002BwLAQdNOOZSt8J/tUkzPNoyQnIpK9azJj/OYCYESZF\u002BLYgAdw4avgMyY4VB7SNJhSS3O3iik7cmRBkGE0zbgUtn2v/kv8FIRoRWxemRTDSCg71GhmT9K/89\u002Bb\u002Bqyif8xEBMl44kXLp/X2RG0uvzRIOI8hyS0AwE"
 }
