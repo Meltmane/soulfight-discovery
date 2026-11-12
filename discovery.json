@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "afde481559084fa0b0dbda824d4de719",
   "apiBaseUrl": "https://psi-functional-corporation-cage.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-12T17:32:08.7716900\u002B00:00",
-  "expiresAtUtc": "2026-11-12T18:32:08.7716900\u002B00:00",
-  "signature": "hFHLOLf4vClw/CSwRe22UD3y/80EzsEAf7beNr6owiINydGcX3Vmb9jvTheEOK69Y4q72i9LUnl2Ut\u002Bji7Lz88cd99YQpvteNlKq\u002BW6Pj/Sa5CH/jrHdHOn2LlB5C\u002BTA3swA3eFqB2fcKNLLjLAx2OavfBFfne\u002BWhD5czfUTOlega7PpDbdT/j\u002B15hWIJDP5gy9dp89y30VcXNBKVE\u002Bb46nR1\u002B00\u002BhmvJE8\u002BupYbA4SnBPl4R3x7aRMPULmA7bPpf/WuqeV0QWdVBZaEzbWyiOP8/dZTWJ06KNid7\u002BjeutdUgkTOGlVgwnP0e4vNZcWY4DycUCwaWaWAOkt1pumfFC/xsPaA5VyiUVKJnM/ODe5d57w3A6xXj\u002BVGjr0GI4rYjdOcwb7cvUAKJRWNcoobRXLvhYe1qGrwIcIL3jvX/ZGHwfbvwyvZjgoLK\u002BLHFlavqfb4ftbJy2Njq90XzdPgMoHFtbahdszUmmTCiS0VGvnbiiegNoUw5gUNW0FDVaZw"
+  "publishedAtUtc": "2026-11-12T20:02:54.8359693\u002B00:00",
+  "expiresAtUtc": "2026-11-12T21:02:54.8359693\u002B00:00",
+  "signature": "NAyqwiejaZDlCqKYQKtYvpJusyV74t9zYrmWsIiy47bd/0Z2dJr5IutB5e8FYpXXxAEU9MLmckHFJDQ90E5oUx5hBJgFlJLjdKZVUEqxg09HrfQ8Id5BOhX9zjfvDk7myl/HHg3Bt/ZF5wKW0qyf97b0PeyLyWZeNpqnGkSY98tmuU442ApxncLd10qywFAzW55TZFZA5bsgLkEbAQr/2sBEODO5W2HYu\u002BGR49ro3ImL43Wq26kzY4tHysuBa4zNToo1N4lGpdLfGvRWm32OOe4CTbVYFMcRj8T23hmZBWQM\u002BXJXi1Jps9lS4HpiV3KWUiHGkyWPr6obuVjY9jHyO8pkAg8vmqYXPAoD4T2tLbd\u002BZqzuAKuSBWzLr7N/8mIo7Msi97lTJ8x1mzsp9ZV73vJ4tC8sQyjJf/uTbvSsoo2LJmXkL482xuiisOZCVb\u002BzeER/UgWftayK//xnxI8/wabDm\u002BE/X3poxE/kMbinX1BeHB\u002BoWVVmhoaAACBw9KXF"
 }
