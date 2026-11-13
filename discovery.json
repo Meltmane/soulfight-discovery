@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "839964264b2a4a16ad4c277ec84e773e",
   "apiBaseUrl": "https://determine-race-certainly-recent.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-13T21:44:31.9301411\u002B00:00",
-  "expiresAtUtc": "2026-11-13T22:44:31.9301411\u002B00:00",
-  "signature": "niSTleYUvWDz9\u002BqHbVQBDjqwb3qPUFGU45NbnK8zWX\u002B9mctTZYf\u002B5HGloEly0JGeCjbtjDWE5vCtNbKyp3eh29/Yt0RRaxZxVqC44\u002BwodUhRPiH8ar/MEKr9bmuh39PHGhdc7Pia8EhI1PlCclxQtWG2HRgfogig9B6WVGue96S5Q6HpZgeu/EGf6KIwS7Mz7s7Al1xI5oiVv3JmsJeVOAbfBCbQqM4tHsmmLl9MmB6lbJN/fho7K/amRaImjZf6TsDWQt1FI9fU6pi4kBVjHLATAJK5nzixPOv8Wzp7vr\u002BkF6cquoNsYufZviVuwMbqGJWAeO1Nq/4mbzkekcubEmcNdFbWhTiulvw3zlQJnIftctwQNZBkMT4smltTaESpVwxc9hK/B80m03HqFg/AVAOUSgeo9vH2VeYiuMqUcP7cFQaeTwSpXARn3h0bNzY3JDjlZCXkh8kV1LaKPNSXGPp/u8XoQ8wawfk7enVKvOYPN0qV8tnjIYafE9qujaWl"
+  "publishedAtUtc": "2026-11-13T22:20:47.7891004\u002B00:00",
+  "expiresAtUtc": "2026-11-13T23:20:47.7891004\u002B00:00",
+  "signature": "qgeotgURRBYQNBMCPAsC2Iln\u002BpcYmRi4jd3x556oTdeuupJI1WI5UJJwfnanaDYO3zdGK8OT70FB1E2OjK8QM4XZGgG5GTJjoIYEblhhsLqm8BXHDzhryqf/SQnAanI3pHSs/u1c2lRTzgWcHtCRVJp0YAPD1FzxXYCBzOT1OhlCvfMVZMAF/3xTdTEEUMU34JHgKe25m3sSdtCiQ9BHc2RBTG6Nh30FZlHWL68mOu8bwwfuJadrkNByajbN4mI4R/ozTU7GkUS1DeA00W16OG4oAJeCjOa7emYb\u002BfGz8j8Ujvnb\u002BXpRSpSI\u002BfNPjVhw56r\u002BVpMSceBTgpseJeyfHUug9C11MY5w4pm7sF0gnd/Wcpwb/w4oxUUmI\u002BEb/iR71I5mR56j6ufBLtRxy3gMYvLQluO9hyFZoHo779rlYpO7NIQoqY18t/y/rww13XEwN3clMEcVbwtazN5u7uix7tDOuVMhlSWk0VKn\u002BruefGzh\u002BNrNFtLZJg1ZAHFFO/GP"
 }
