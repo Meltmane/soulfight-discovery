@@ -2,11 +2,11 @@
   "schema": 1,
   "game": "soulfight",
   "environment": "alpha",
-  "status": "online",
+  "status": "offline",
   "sessionId": "d2d2f84fab7e4263b6183e2bd36ad889",
   "apiBaseUrl": "https://ski-tract-abilities-marilyn.trycloudflare.com",
   "serverInstanceId": "156dc5b072ec4ae9bd4ba2e796dc8026",
-  "publishedAtUtc": "2026-11-13T23:44:24.5717680\u002B00:00",
-  "expiresAtUtc": "2026-11-14T00:44:24.5717680\u002B00:00",
-  "signature": "qPJ1804GmxFtNsE0U1tY8X2BnXpL0Qv4unt062cdi\u002BmV1Bu3VfBp3ove8LFR9p/ZT3\u002BQr1aNvd7n76LKPYcwbzHFe9sYTxBB3DwEht84APr2/x4aVuZzbhCtoRTdaT7GINvZekEWXHuSGBJ6sHh3foY0VIpdaNbWOZOLgRCQ6akKmYaXbD7HOZMjHZ5OhuVJHeenMTejNLPaFLaLQmNDwCkiDQvR/s7zNQUUp7PW7tyGOfOtUff8M5uDQA7f4odDpaFKpqZ\u002B651n5ewzebWf\u002B8lGfBBf\u002BYGRDWqxbV\u002BojOGiJp07eQ2YXmaEPfDXTa2y4acXL9QIhNKxQYX/6R\u002B53zMif7ETJKirLb1nmV4QsucvFpF64J3t5dVlF2YpgKFcXHCouogAB2XCe2Jx\u002BdrAZ05nS8zhesLl/8aVPtKoL6o5yp\u002BvFhcoY0xNf9R/VSgnVrMQAEzxHmpYl7iXrkPF2sRQrgycKDjphREtp/Ag1Okw/gCODDxU78I2P1EraJVX"
+  "publishedAtUtc": "2026-11-14T00:00:21.8810378\u002B00:00",
+  "expiresAtUtc": "2026-11-14T01:00:21.8810378\u002B00:00",
+  "signature": "AlY0Wb1DvrOXtM0BNsr3caKTxNOKCufDW/lRaYnDHnOTF1KB52Gd38t7C1qVtttP1seLFjoPA5apiGZQwuQoJBVnY80tnnZQUGowEYWJ/VYx3QliwXzTBpv3cPSgQUZYuDsCDgBMcxrAOykNOSbSWxYq9Vy1pok9lGD0\u002BiftGrZQeWbO/oZqJNc0br/Mn3jF\u002B8SJXyqRuUtkTSop4DWFV7boA4JjZ/5V0\u002Bz1FuxzvYYBKParDnvT6T8bwuNJQ/Jt0w6ZhYZi0ooZYdEN/BEYmcE0A2qp2v3yZoI66EpYim\u002Bksv0/aKJb2WyD2QPfZt7CPYq3EKGT9Sqc96fRrOVyfzTn4hh2ZCp9xM/C20HGLhKh9B071AcNHwNkDLbdgfY8LPYgCeyWxC1XqFjzRBAVIoCCSQ040\u002Bwh3iy5keQjubwgXxjoHFWUfv1y\u002BRam4sbTSKHnlzMgkEirQcwlLVlEnWfMPsIiz5YLIUE7oHe7T55Wjxw/0YZav4Vq5Ryl1Htu"
 }
